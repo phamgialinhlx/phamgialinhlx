@@ -8,3 +8,11 @@
 
 ## 🤝 Contributed To
 [![vectorize-io/hindsight](https://img.shields.io/badge/vectorize--io%2Fhindsight-⭐%206.7k-blue?style=flat-square&logo=github)](https://github.com/vectorize-io/hindsight)
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/phamgialinhlx/phamgialinhlx/output/github-contribution-grid-snake-dark.svg)
+
+</div>
