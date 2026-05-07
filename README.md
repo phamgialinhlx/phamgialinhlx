@@ -7,7 +7,7 @@
 
 
 ## 🤝 Contributed To
-[![vectorize-io/hindsight](https://img.shields.io/badge/vectorize--io%2Fhindsight-%E2%AD%90%2010.2k-blue?style=flat-square&logo=github)](https://github.com/vectorize-io/hindsight)
+[![vectorize-io/hindsight](https://img.shields.io/badge/vectorize--io%2Fhindsight-%E2%AD%90%2012.4k-blue?style=flat-square&logo=github)](https://github.com/vectorize-io/hindsight)
 
 ## 🐍 Contribution Snake
 
