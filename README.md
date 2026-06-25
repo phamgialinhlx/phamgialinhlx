@@ -8,9 +8,9 @@
 
 ## 🤝 Contributed To
 
-[![vectorize-io/hindsight](https://img.shields.io/badge/vectorize--io%2Fhindsight-%E2%AD%90%2016.2k-blue?style=flat-square&logo=github)](https://github.com/vectorize-io/hindsight)
+[![vectorize-io/hindsight](https://img.shields.io/badge/vectorize--io%2Fhindsight-%E2%AD%90%2017.5k-blue?style=flat-square&logo=github)](https://github.com/vectorize-io/hindsight)
 
-[![langchain-ai/deepagents](https://img.shields.io/badge/langchain--ai%2Fdeepagents-%E2%AD%90%2024.4k-blue?style=flat-square&logo=github)](https://github.com/langchain-ai/deepagents)
+[![langchain-ai/deepagents](https://img.shields.io/badge/langchain--ai%2Fdeepagents-%E2%AD%90%2025.1k-blue?style=flat-square&logo=github)](https://github.com/langchain-ai/deepagents)
 
 ## 🐍 Contribution Snake
 
